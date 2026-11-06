@@ -41,7 +41,7 @@ Estudiando Ingeniería e impulsando el desarrollo de software, la infraestructur
   <a href="https://github.com/aylc-ficct-uagrm" target="_blank" title="GitHub Universitario (Alex Yahir - UAGRM)">
     <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub Universitario" />
   </a>
-  <a href="https://instagram.com/TU_USUARIO_DE_INSTAGRAM" target="_blank" title="Instagram">
+  <a href="https://www.instagram.com/alex_yahir_cl" target="_blank" title="Instagram">
     <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/TU_USUARIO_DE_LINKEDIN" target="_blank" title="LinkedIn">
