@@ -28,7 +28,5 @@ Estudiando Ingeniería e impulsando el desarrollo de software, la infraestructur
 
 ### 📊 Estadísticas de GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lcalexyahir&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcalexyahir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lcalexyahir&theme=tokyonight" alt="GitHub Summary Card" />
 </div>
