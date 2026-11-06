@@ -8,7 +8,7 @@ Estudiando Ingeniería e impulsando el desarrollo de software, la infraestructur
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,nextjs,flask,ts,js,flutter,python,postgres,kali,windows,ai" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,scss,angular,nextjs,flask,ts,js,flutter,python,postgres,kali,windows,ai" alt="Tech Stack" />
   </a>
 </div>
 
@@ -37,4 +37,4 @@ Estudiando Ingeniería e impulsando el desarrollo de software, la infraestructur
 
 ### 🎓 Perfil Académico / Universitario
 ¿Buscas los repositorios de mis prácticas y materias de la universidad? Puedes visitar mi cuenta institucional secundaria:
-- **[🔗 Ir a mi GitHub Universitario (Alex Yahir)](https://github.com/aylc-ficct-uagrm)**
+- **[🔗 Ir a mi GitHub Universitario (Alex Yahir - UAGRM)](https://github.com/aylc-ficct-uagrm)**
