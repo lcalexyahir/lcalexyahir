@@ -1,4 +1,4 @@
-### ¡Hola! 👋 Soy Alex Yahir (The_Capi)
+### ¡Hola! 👋 Soy Alex Yahir Lupa Cuellar
 
 Estudiando Ingeniería e impulsando el desarrollo de software, la infraestructura de sistemas y la inteligencia artificial.
 
@@ -16,11 +16,19 @@ Estudiando Ingeniería e impulsando el desarrollo de software, la infraestructur
 
 ### 🚀 Proyectos Destacados
 - **[SmartLook](https://github.com/lcalexyahir/SmartLook)**: E-commerce omnicanal con probador virtual de realidad aumentada.
+- **[TheCapiHub]([https://tu-proyecto.vercel.app](https://thecapihub.vercel.app/index.html))**: Aplicación web desplegada y en producción.
+
+---
+
+### 🤝 Colaboraciones & Proyectos en Grupo
+- **[SITUR-SMART](https://github.com/JosecaFict/SITUR-SMART)**: Plataforma SaaS multi-tenant para reservas de turismo.
+- **[manaco-data](https://github.com/edisonayala000-netizen/manaco-data)**: Repositorio colaborativo de gestión y análisis de datos.
 
 ---
 
 ### 📊 Estadísticas de GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lcalexyahir&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcalexyahir&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lcalexyahir&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcalexyahir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
