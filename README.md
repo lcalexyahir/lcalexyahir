@@ -8,7 +8,7 @@ Estudiando Ingeniería e impulsando el desarrollo de software, la infraestructur
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,scss,angular,nextjs,flask,ts,js,flutter,python,postgres,kali,windows,ai" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,scss,angular,nextjs,flask,ts,js,flutter,python,postgres,kali,windows,bots" alt="Tech Stack" />
   </a>
 </div>
 
