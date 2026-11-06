@@ -8,7 +8,7 @@ Estudiando Ingeniería e impulsando el desarrollo de software, la infraestructur
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,scss,angular,nextjs,flask,ts,js,flutter,python,postgres,kali,windows,bots" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,scss,angular,nextjs,flask,fastapi,ts,js,flutter,dart,python,postgres,kali,windows,bots" alt="Tech Stack" />
   </a>
 </div>
 
@@ -38,3 +38,19 @@ Estudiando Ingeniería e impulsando el desarrollo de software, la infraestructur
 ### 🎓 Perfil Académico / Universitario
 ¿Buscas los repositorios de mis prácticas y materias de la universidad? Puedes visitar mi cuenta institucional secundaria:
 - **[🔗 Ir a mi GitHub Universitario (Alex Yahir - UAGRM)](https://github.com/aylc-ficct-uagrm)**
+
+---
+
+### 🌐 Redes & Cuentas
+
+<div align="center">
+  <a href="https://github.com/aylc-ficct-uagrm" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub Universitario" />
+  </a>
+  <a href="https://instagram.com/TU_USUARIO_DE_INSTAGRAM" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/TU_USUARIO_DE_LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+  </a>
+</div>
