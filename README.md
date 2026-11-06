@@ -44,7 +44,7 @@ Estudiando Ingeniería e impulsando el desarrollo de software, la infraestructur
   <a href="https://www.instagram.com/alex_yahir_cl" target="_blank" title="Instagram">
     <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/TU_USUARIO_DE_LINKEDIN" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/alex-yahir-lupa-cuellar-6694b43b8" target="_blank" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
   </a>
 </div>
