@@ -1,16 +1,26 @@
-## Hi there 👋
+### ¡Hola! 👋 Soy Alex Yahir (The_Capi)
 
-<!--
-**lcalexyahir/lcalexyahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiando Ingeniería e impulsando el desarrollo de software, la infraestructura de sistemas y la inteligencia artificial.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 💻 Stack Tecnológico | 🛠️ Entornos & Herramientas |
+| :--- | :--- |
+| **Frontend:** Angular, Flutter | **Sistemas / OS:** Ubuntu, Fedora, Kali, Windows Server |
+| **Backend & SaaS:** Python, NestJS | **Virtualización:** VirtualBox |
+| **Bases de Datos:** PostgreSQL | **IA & ML:** Applied Artificial Intelligence |
+
+</div>
+
+---
+
+### 🚀 Proyectos Destacados
+- **[SmartLook](https://github.com/lcalexyahir/SmartLook)**: E-commerce omnicanal con probador virtual de realidad aumentada.
+
+---
+
+### 📊 Estadísticas de GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lcalexyahir&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcalexyahir&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
