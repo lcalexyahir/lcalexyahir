@@ -17,8 +17,8 @@ Estudiando Ingeniería e impulsando el desarrollo de software, la infraestructur
 ---
 
 ### 🚀 Proyectos Destacados
-- **[SmartLook](https://github.com/lcalexyahir/SmartLook)**: E-commerce omnicanal con probador virtual de realidad aumentada.
 - **[TheCapiHub](https://thecapihub.vercel.app/index.html)**: Aplicación web desplegada y en producción.
+- **[SmartLook](https://github.com/lcalexyahir/SmartLook)**: E-commerce omnicanal con probador virtual de realidad aumentada.
 
 ---
 
