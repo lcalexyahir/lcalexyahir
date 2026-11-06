@@ -4,11 +4,13 @@ Estudiando Ingeniería e impulsando el desarrollo de software, la infraestructur
 
 <div align="center">
 
-| 💻 Stack Tecnológico | 🛠️ Entornos & Herramientas |
-| :--- | :--- |
-| **Frontend:** Angular, Flutter | **Sistemas / OS:** Ubuntu, Fedora, Kali, Windows Server |
-| **Backend & SaaS:** Python, NestJS | **Virtualización:** VirtualBox |
-| **Bases de Datos:** PostgreSQL | **IA & ML:** Applied Artificial Intelligence |
+### 💻 Tecnologías & Herramientas
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,flutter,python,nestjs,postgres,linux,fedora,kali,windows,bots" alt="Tech Stack" />
+  </a>
+</div>
 
 </div>
 
