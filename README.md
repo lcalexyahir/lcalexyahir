@@ -8,7 +8,7 @@ Estudiando Ingeniería e impulsando el desarrollo de software, la infraestructur
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,flutter,python,nestjs,postgres,linux,fedora,kali,windows,bots" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=angular,flutter,python,nestjs,postgres,linux,redhat,kali,windows,ai" alt="Tech Stack" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@ Estudiando Ingeniería e impulsando el desarrollo de software, la infraestructur
 
 ### 🚀 Proyectos Destacados
 - **[SmartLook](https://github.com/lcalexyahir/SmartLook)**: E-commerce omnicanal con probador virtual de realidad aumentada.
-- **[TheCapiHub]([https://tu-proyecto.vercel.app](https://thecapihub.vercel.app/index.html))**: Aplicación web desplegada y en producción.
+- **[TheCapiHub](https://thecapihub.vercel.app/index.html)**: Aplicación web desplegada y en producción.
 
 ---
 
