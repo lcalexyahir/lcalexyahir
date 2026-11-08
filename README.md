@@ -25,6 +25,7 @@ Estudiando Ingeniería e impulsando el desarrollo de software, la infraestructur
 ### 🤝 Colaboraciones & Proyectos en Grupo
 - **[SITUR-SMART](https://github.com/JosecaFict/SITUR-SMART)**: Plataforma SaaS multi-tenant para reservas de turismo.
 - **[manaco-data](https://github.com/edisonayala000-netizen/manaco-data)**: Repositorio colaborativo de gestión y análisis de datos.
+- **[HomeGuard_AI](https://github.com/CHLimber/HomeGuard_AI)**: Sistema colaborativo de seguridad y monitoreo asistido por inteligencia artificial.
 
 ---
 
